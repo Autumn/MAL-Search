@@ -4,6 +4,7 @@
 /home/aki/code/android/malsearch/res/xml/searchable.xml \
 /home/aki/code/android/malsearch/res/drawable-ldpi/ic_launcher.png \
 /home/aki/code/android/malsearch/res/drawable-xhdpi/ic_launcher.png \
+/home/aki/code/android/malsearch/res/layout/info.xml \
 /home/aki/code/android/malsearch/res/layout/main.xml \
 /home/aki/code/android/malsearch/res/layout/results.xml \
 /home/aki/code/android/malsearch/res/menu/main_activity.xml \

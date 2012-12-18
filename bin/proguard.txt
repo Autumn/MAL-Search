@@ -1,3 +1,6 @@
+# view AndroidManifest.xml #generated:21
+-keep class com.galaxy.malsearch.InfoActivity { <init>(...); }
+
 # view AndroidManifest.xml #generated:9
 -keep class com.galaxy.malsearch.MainActivity { <init>(...); }
 

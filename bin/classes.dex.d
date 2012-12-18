@@ -10,6 +10,8 @@
 /home/aki/code/android/malsearch/bin/classes/com/galaxy/malsearch/ResultsActivity$SearchApiTask.class \
 /home/aki/code/android/malsearch/bin/classes/com/galaxy/malsearch/ResultsActivity$1.class \
 /home/aki/code/android/malsearch/bin/classes/com/galaxy/malsearch/R$xml.class \
+/home/aki/code/android/malsearch/bin/classes/com/galaxy/malsearch/SearchResult$1.class \
+/home/aki/code/android/malsearch/bin/classes/com/galaxy/malsearch/InfoActivity.class \
 /home/aki/code/android/malsearch/bin/classes/com/galaxy/malsearch/R.class \
 /home/aki/code/android/malsearch/bin/classes/com/galaxy/malsearch/ResultsActivity.class \
 /home/aki/code/android/malsearch/bin/classes/com/galaxy/malsearch/R$string.class \

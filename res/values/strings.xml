@@ -5,4 +5,5 @@
     <string name="settingsButton">Preferences</string>
     <string name="search_hint">Search a title...</string>
     <string name="resultsActivity_label">Search Results</string>
+    <string name="infoActivity_label">Info</string>
 </resources>

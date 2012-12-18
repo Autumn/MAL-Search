@@ -24,6 +24,7 @@ public class MainActivity extends Activity {
         Intent i = new Intent(this, ResultsActivity.class);
         i.putExtra(ResultsActivity.EXTRA_QUERY, query);
         startActivity(i);
+        finish();
       }
     }
 
