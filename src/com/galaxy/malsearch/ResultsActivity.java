@@ -16,6 +16,7 @@ import java.io.IOException;
 import java.lang.Exception;
 import org.json.JSONArray;
 import java.lang.StringBuilder;
+import android.app.FragmentManager;
 
 public class ResultsActivity extends Activity {
 
@@ -49,7 +50,9 @@ public class ResultsActivity extends Activity {
     @Override
     public void onPostExecute(SearchResult[] arg0) {
       findViewById(R.id.resultProgressBar).setVisibility(View.GONE);
-      findViewById(R.id.text).setVisibility(View.VISIBLE);
+      ResultsFragment rf = new ResultsFragment();
+      rf.setSearchResults(arg0);
+      getFragmentManager().beginTransaction().add(android.R.id.content, rf).commit();
       // searchresult array of all results
       // build list and draw to UI
     }

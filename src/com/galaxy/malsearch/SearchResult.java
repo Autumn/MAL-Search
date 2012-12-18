@@ -44,4 +44,8 @@ public class SearchResult {
     }
     return r;
   }
+
+  public String toString() {
+    return title;
+  }
 }

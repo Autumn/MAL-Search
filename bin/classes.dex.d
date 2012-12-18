@@ -6,6 +6,7 @@
 /home/aki/code/android/malsearch/bin/classes/com/galaxy/malsearch/R$menu.class \
 /home/aki/code/android/malsearch/bin/classes/com/galaxy/malsearch/R$attr.class \
 /home/aki/code/android/malsearch/bin/classes/com/galaxy/malsearch/BuildConfig.class \
+/home/aki/code/android/malsearch/bin/classes/com/galaxy/malsearch/ResultsFragment.class \
 /home/aki/code/android/malsearch/bin/classes/com/galaxy/malsearch/ResultsActivity$SearchApiTask.class \
 /home/aki/code/android/malsearch/bin/classes/com/galaxy/malsearch/ResultsActivity$1.class \
 /home/aki/code/android/malsearch/bin/classes/com/galaxy/malsearch/R$xml.class \
