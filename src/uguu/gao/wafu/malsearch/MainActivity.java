@@ -1,4 +1,4 @@
-package com.galaxy.malsearch;
+package uguu.gao.wafu.malsearch;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -8,6 +8,7 @@ import android.view.MenuItem;
 import android.widget.SearchView;
 import android.content.Intent;
 import android.app.SearchManager;
+import uguu.gao.wafu.malsearch.ResultsActivity;
 
 public class MainActivity extends Activity {
     @Override

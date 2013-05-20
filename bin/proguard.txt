@@ -1,9 +1,9 @@
 # view AndroidManifest.xml #generated:21
--keep class com.galaxy.malsearch.InfoActivity { <init>(...); }
+-keep class uguu.gao.wafu.malsearch.InfoActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:9
--keep class com.galaxy.malsearch.MainActivity { <init>(...); }
+-keep class uguu.gao.wafu.malsearch.MainActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:20
--keep class com.galaxy.malsearch.ResultsActivity { <init>(...); }
+-keep class uguu.gao.wafu.malsearch.ResultsActivity { <init>(...); }
 

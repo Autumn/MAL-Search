@@ -1,4 +1,4 @@
-package com.galaxy.malsearch;
+package uguu.gao.wafu.malsearch;
 
 import android.app.ListFragment;
 import android.os.Bundle;

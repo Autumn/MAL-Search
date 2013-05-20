@@ -1,4 +1,4 @@
-package com.galaxy.malsearch;
+package uguu.gao.wafu.malsearch;
 
 import android.app.Activity;
 import android.widget.TextView;
@@ -14,6 +14,9 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.io.IOException;
 import java.lang.Exception;
+
+import uguu.gao.wafu.malsearch.ResultsFragment;
+import uguu.gao.wafu.malsearch.SearchResult;
 import org.json.JSONArray;
 import java.lang.StringBuilder;
 import android.app.FragmentManager;

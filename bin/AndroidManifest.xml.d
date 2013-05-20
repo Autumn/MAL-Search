@@ -1,2 +1,2 @@
-/home/aki/code/android/malsearch/bin/AndroidManifest.xml : \
-/home/aki/code/android/malsearch/AndroidManifest.xml \
+/home/aki/code/android/MAL-Search/bin/AndroidManifest.xml : \
+/home/aki/code/android/MAL-Search/AndroidManifest.xml \

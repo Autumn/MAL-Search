@@ -1,4 +1,4 @@
-package com.galaxy.malsearch;
+package uguu.gao.wafu.malsearch;
 
 import org.json.JSONObject;
 import org.json.JSONArray;
